@@ -141,7 +141,7 @@ Irá exibir um calendário que possibilita visualizar até 6 meses.  
 7 
 
 **8. INFORMAÇÕES:**  
-Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - *‘Aberto para Vendas’*, *‘Fechado para Vendas’*, *‘Fechado Parcialmente para Vendas’* e *‘Allotment Indisponível’* - e que aparecerão no calendário de preços:  
+Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - *‘Aberto para Vendas’*, *‘Fechado para Vendas’*, *‘Fechado Parcialmente para Vendas’* e *‘Allotment Indisponível’* - que aparecerão no calendário de preços:  
 
 #### Detalhes e Edição:  
 

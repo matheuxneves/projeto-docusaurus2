@@ -131,7 +131,6 @@ Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão *
 
 Ou será possível clicar com o botão direito do mouse sobre um dia, para ter acesso ao botão **‘Editar’**:
 
-![imagem-27](/assets/guia-myhotel-calendario-de-precos/imagem-27.webp)
 ![imagem-28](/assets/guia-myhotel-calendario-de-precos/imagem-28.webp)
 
 

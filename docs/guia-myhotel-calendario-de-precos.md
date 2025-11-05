@@ -29,7 +29,6 @@ O caminho para acessar o calendário de preços do hotel é:
 
 Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **'pesquisa e filtros'** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:
 
-![imagem-1](/assets/guia-myhotel-calendario-de-precos/imagem-1.webp)
 ![imagem-2](/assets/guia-myhotel-calendario-de-precos/imagem-2.webp)
 ![imagem-3](/assets/guia-myhotel-calendario-de-precos/imagem-3.webp)
 

@@ -24,8 +24,6 @@ O caminho para acessar o calendário de preços do hotel é:
 ![imagem-3](/assets/guia-myhotel-calendario-de-precos/imagem-3.webp)  
 
 
-Em **‘Calendário de Preços’** será possível consultar os preços, restrições e fechos/aberturas de vendas que foram aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar estas informações, é necessário selecionar um ‘tipo de quarto’ do tarifário cujas informações você deseja consultar.
-
 ## Consultando o Calendário de Preços:
 
 Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **'pesquisa e os filtros'** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:

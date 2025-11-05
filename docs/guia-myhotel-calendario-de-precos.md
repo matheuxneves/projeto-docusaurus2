@@ -1,7 +1,7 @@
 ---
 sidebar_label: TARIFÁRIOS E DISPONIBILIDADE - CALENDÁRIO DE PREÇOS
 title: TARIFÁRIOS E DISPONIBILIDADE - CALENDÁRIO DE PREÇOS
-description: Guia rápido sobre como utilizar o calendário de preços para gerenciar tarifas e disponibilidade no sistema.
+description: Guia rápido de uso do calendário de preços para gerenciar tarifas e disponibilidade no sistema.
 slug: /guia-myhotel-calendario-de-precos
 ---
 

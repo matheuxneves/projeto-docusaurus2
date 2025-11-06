@@ -9,7 +9,7 @@ slug: /guia-myhotel-calendario-de-precos
 
 # Calendário de Preços
 
-
+%%IMAGE_1%%
 
 Neste guia, você vai aprender as funcionalidades da aba de Calendário de Preços.
 
@@ -84,3 +84,4 @@ Para mais informações, contate o nosso atendimento online CHAT ou através do 
 
 ### Boas Vendas!!
 
+%%IMAGE_51%%

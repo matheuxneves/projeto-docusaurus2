@@ -1,87 +1,251 @@
 ```yaml
 ---
-sidebar_label: Calendário de Preços
-title: Calendário de Preços
-description: Aprenda a consultar preços, restrições e disponibilidade no Calendário de Preços, utilizando filtros e opções de edição para gerenciar suas tarifas.
+sidebar_label: TARIFÁRIOS E DISPONIBILIDADE
+title: TARIFÁRIOS E DISPONIBILIDADE
+description: Este guia apresenta as funcionalidades do calendário de preços e tarifários disponíveis.
 slug: /guia-myhotel-calendario-de-precos
 ---
-```
+# TARIFÁRIOS E DISPONIBILIDADE
 
-# Calendário de Preços
+## CALENDÁRIO DE PREÇOS
+
+### GUIA RÁPIDO
+
+1  
+
+### GUIA RÁPIDO
+
+**TARIFÁRIOS E DISPONIBILIDADE**
+
+**CALENDÁRIO DE PREÇOS**
+
+%%IMAGE_0%%
 
 %%IMAGE_1%%
 
-Neste guia, você vai aprender as funcionalidades da aba de Calendário de Preços.
+%%IMAGE_2%%
 
-### Como chegar?
+## TARIFÁRIOS E DISPONIBILIDADE
 
-O caminho para acessar o calendário de preços do hotel é: **Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de Preços**.
+## CALENDÁRIO DE PREÇOS
 
-![imagem-0](/assets/guia-myhotel-calendario-de-precos/imagem-0.webp)
+### GUIA RÁPIDO
 
-Em **'Calendário de Preços'**, será possível consultar os preços, as restrições e os fechamentos/aberturas de vendas que foram aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar estas informações, é necessário selecionar um 'tipo de quarto' do tarifário cujas informações você deseja consultar.
+2  
 
-### Consultando o Calendário de Preços
+NESTE GUIA, VOCÊ VAI APRENDER AS FUNCIONALIDADES DA ABA DE CALENDÁRIO DE PREÇOS.
 
-Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **'pesquisa e os filtros'** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:
+Como chegar?  
 
-![imagem-3](/assets/guia-myhotel-calendario-de-precos/imagem-3.webp)
+O caminho para acessar o calendário de preços do hotel é:
 
-1.  **TARIFAS E PACOTE:** Nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema irá identificá-los com “[P]” antes do nome do tarifário).
-    ![imagem-5](/assets/guia-myhotel-calendario-de-precos/imagem-5.webp)
-2.  **PESQUISAR E AGRUPAR POR:** Será possível buscar pelo nome do ‘Tarifário’, do ‘Tipo de Quarto’, pelo nome do ‘Canal’ de vendas e pelo nome do ‘Nível de Fidelização’ (caso o hotel tenha ativada a solução BeeLoyalty).
-    ![imagem-6](/assets/guia-myhotel-calendario-de-precos/imagem-6.webp)
-3.  **ORDENAR POR:** Será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A'.
-4.  **PREÇOS PARA:** Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado.
-    ![imagem-9](/assets/guia-myhotel-calendario-de-precos/imagem-9.webp)
-5.  **MÊS:** Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’.
-6.  **VISUALIZAÇÃO 1 MÊS:** Permite consultar as informações do mês selecionado.
-    ![imagem-12](/assets/guia-myhotel-calendario-de-precos/imagem-12.webp)
-7.  **VISUALIZAÇÃO 6 MESES:** Irá exibir um calendário que possibilita visualizar até 6 meses.
-8.  **INFORMAÇÕES:** Ao passar o mouse sobre este botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - *‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’* - e que aparecerão no calendário de preços.
-    ![imagem-15](/assets/guia-myhotel-calendario-de-precos/imagem-15.webp)
+**Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de Preços:**
 
-### Detalhes e Edição
+Em **'Calendário de Preços'** será possível consultar os preços, restrições e fechos/aberturas de vendas que foram aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar estas informações, é necessário selecionar um **'tipo de quarto'** do tarifário cujas informações você deseja consultar.
 
-Ao clicar em um dia, abrirá uma janela de ‘informações’, mostrando preços, disponibilidade e restrições que estão cadastrados para o tipo de quarto do tarifário:
+%%IMAGE_3%%
 
-![imagem-17](/assets/guia-myhotel-calendario-de-precos/imagem-17.webp)
+%%IMAGE_4%%
 
-*   **Preços:** Valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
-*   **Allotment:** Quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
-*   **Restrições:** Cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fechamento de vendas aplicado para o dia).
+%%IMAGE_5%%
 
-E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
+## Consultando o Calendário de Preços
 
-![imagem-19](/assets/guia-myhotel-calendario-de-precos/imagem-19.webp)
+3  
 
-*   **Editar**: Será possível **‘Editar Detalhes da Tarifa / Tipo de Quarto’** para seguir com as atualizações de:
-    *   **‘Preços do Quarto’:** Aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’.
-        ![imagem-20](/assets/guia-myhotel-calendario-de-precos/imagem-20.webp)
-        Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível **atualizar o ‘allotment’**.
-    *   **‘Restrições do Tarifário’**
-        ![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
-    *   **‘Fechar/Abrir Vendas’**
-    *   **‘Informação da Tarifa’:** Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
-        ![imagem-26](/assets/guia-myhotel-calendario-de-precos/imagem-26.webp)
-*   Após realizar a atualização das informações, clique em ‘**Salvar**’.
-*   **Fechar este(s) dias(s):** Aplicar fechamento de vendas para o dia ou período selecionado.
-*   **Abrir este(s) dia(s):** Aplicar abertura de vendas para o dia ou período selecionado.
+Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de pesquisa e os filtros disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:  
 
-## IMPORTANTE SABER
+%%IMAGE_6%%
 
-Ao passar o mouse sobre um dia do calendário, aparecerá também o botão ‘Editar’ (sinalizado por um ícone em formato de lápis) no canto superior direito do quadrado do dia. E será possível clicar em ‘Editar’, ‘Fechar este(s) dia(s)’ e ‘Abrir este(s) dia(s)’.
+%%IMAGE_7%%
 
-![imagem-28](/assets/guia-myhotel-calendario-de-precos/imagem-28.webp)
+%%IMAGE_8%%
 
-Ou será possível clicar com o botão direito do mouse sobre um dia para ter acesso ao botão ‘Editar’.
+%%IMAGE_9%%
 
-E para ‘editar’, ‘fechar este(s) dia(s)’ e ‘abrir este(s) dia(s)’ para um período diretamente no calendário, clique sobre o dia inicial e arraste para os demais dias do período. Em seguida, clique no botão ‘Editar’ (sinalizado pelo ícone de ‘lápis’), do último dia do período selecionado:
+## Tarifas e Pacote
 
-![imagem-31](/assets/guia-myhotel-calendario-de-precos/imagem-31.webp)
+4  
 
-Para mais informações, contate o nosso atendimento online CHAT ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com).
+**1. TARIFAS E PACOTE:** nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema irá identificá-los com “[P]” antes do nome do tarifário):
 
-### Boas Vendas!!
+**2. PESQUISAR E AGRUPAR POR:** será possível buscar pelo nome do ‘Tarifário’, do ‘Tipo de Quarto’, pelo nome do ‘Canal’ de vendas e pelo nome do ‘Nível de Fidelização’ (caso o hotel tenha ativada a solução BeeLoyalty):
+
+**3. ORDENAR POR:** será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A':
+
+%%IMAGE_10%%
+
+%%IMAGE_11%%
+
+%%IMAGE_12%%
+
+%%IMAGE_13%%
+
+## Preços
+
+5  
+
+**4. PREÇOS:** escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
+
+**5. MÊS:** selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
+
+%%IMAGE_14%%
+
+%%IMAGE_15%%
+
+%%IMAGE_16%%
+
+%%IMAGE_17%%
+
+## Visualizações
+
+6  
+
+**6. VISUALIZAÇÃO 1 MÊS:** permite consultar as informações do mês selecionado:
+
+**7. VISUALIZAÇÃO 6 MESES:** irá exibir um calendário que possibilita visualizar até 6 meses.
+
+%%IMAGE_18%%
+
+%%IMAGE_19%%
+
+%%IMAGE_20%%
+
+%%IMAGE_21%%
+
+## Informações
+
+7  
+
+**8. INFORMAÇÕES:** ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - ‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’ - e que aparecerão no calendário de preços:
+
+### Detalhes e Edição:  
+
+%%IMAGE_22%%
+
+%%IMAGE_23%%
+
+%%IMAGE_24%%
+
+%%IMAGE_25%%
+
+## Ao clicar em um dia
+
+8  
+
+Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preços, disponibilidade e restrições que tem cadastrado para o tipo de quarto do tarifário:
+
+- **Preços:** valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
+- **Allotment:** quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
+- **Restrições:** cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).
+
+E ao clicar no botão **'Editar'** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
+
+%%IMAGE_26%%
+
+%%IMAGE_27%%
+
+%%IMAGE_28%%
+
+## Editar Detalhes
+
+9  
+
+- **Editar:** será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ para seguir com as atualizações de:
+  - **'Preços do Quarto':** aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’.
+  - Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível atualizar o ‘allotment’.
+
+%%IMAGE_29%%
+
+%%IMAGE_30%%
+
+%%IMAGE_31%%
+
+%%IMAGE_32%%
+
+## Restrições
+
+10  
+
+- **Restrições do Tarifário:**
+- **Fechar/Abrir Vendas:**
+
+%%IMAGE_33%%
+
+%%IMAGE_34%%
+
+%%IMAGE_35%%
+
+%%IMAGE_36%%
+
+## Informação da Tarifa
+
+11  
+
+- **Informação da Tarifa:** informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
+  
+Após realizar a atualização das informações, clique em **'Salvar'**.
+
+- **Fechar este(s) dia(s):** aplicar fecho de vendas para o dia ou período selecionado.
+- **Abrir este(s) dia(s):** aplicar abertura de vendas para o dia ou período selecionado.
+
+%%IMAGE_37%%
+
+%%IMAGE_38%%
+
+%%IMAGE_39%%
+
+%%IMAGE_40%%
+
+## Importante Saber
+
+12  
+
+**IMPORTANTE SABER**  
+
+AO ESTACIONAR O MOUSE SOBRE UM DIA DO CALENDÁRIO, APARECERÁ TAMBÉM O BOTÃO ‘EDITAR’ (SINALIZADO POR UM ÍCONE EM FORMATO DE LÁPIS) NO CANTO SUPERIOR DIREITO DO QUADRADO DO DIA. E SERÁ POSSÍVEL CLICAR EM ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’:
+
+OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIRETO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:
+
+%%IMAGE_41%%
+
+%%IMAGE_42%%
+
+%%IMAGE_43%%
+
+## Contato
+
+13  
+
+E PARA ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’ PARA UM PERÍODO DIRETAMENTE NO CALENDÁRIO, CLIQUE SOBRE O DIA INICIAL E ARRASTE PARA OS DEMAIS DIAS DO PERÍODO. EM SEGUIDA, CLIQUE NO BOTÃO ‘EDITAR’ (SINALIZADO PELO ÍCONE DE ‘LÁPIS’), DO ÚLTIMO DIA DO PERÍODO SELECIONADO:
+
+Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
+
+%%IMAGE_44%%
+
+%%IMAGE_45%%
+
+%%IMAGE_46%%
+
+%%IMAGE_47%%
+
+## Boas Vendas!!
+
+14  
+
+**Boas Vendas!!**
+
+%%IMAGE_49%%
+
+%%IMAGE_50%%
 
 %%IMAGE_51%%
+
+%%IMAGE_52%%
+
+%%IMAGE_53%%
+
+%%IMAGE_54%%
+
+%%IMAGE_55%%
+```

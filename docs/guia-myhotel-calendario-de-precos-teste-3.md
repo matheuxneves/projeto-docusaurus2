@@ -159,26 +159,6 @@ Veja:
 
 ![Imagem 45](![imagem-46](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-46.webp))
 
-![Imagem_46](![imagem-47](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-47.webp))
+![Imagem 46](![imagem-47](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-47.webp))
 
 ![imagem-48](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-48.webp)
-
-## TARIFÁRIOS E DISPONIBILIDADE
-
-### CALENDÁRIO DE PREÇOS
-
-#### Informações adicionais:
-
-Ao estacionar o mouse sobre um dia, será exibida uma legenda com cores relacionadas à disponibilidade, incluindo opções como "Aberto para Vendas", "Fechado para Vendas", etc.
-
-Para mais informações, contate nosso atendimento online via CHAT ou pelo e-mail:
-
-[servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
-
-Veja:
-
-![Imagem 48](![imagem-49](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-49.webp))
-
-![Imagem 49](![imagem-50](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-50.webp))
-
-![imagem-51](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-51.webp)

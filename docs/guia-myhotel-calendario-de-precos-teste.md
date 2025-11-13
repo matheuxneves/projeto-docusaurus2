@@ -5,7 +5,7 @@ description: Guia rápido sobre as funcionalidades do calendário de preços, in
 slug: /guia-myhotel-calendario-de-precos-teste
 ---
 
-# TARIFÁRIOS E DISPONIBILIDADE: CALENDÁRIO DE PREÇOS
+# TARIFÁRIOS E DISPONIBILIDADE
 
 ![imagem-1](/assets/guia-myhotel-calendario-de-precos-teste/imagem-1.webp)
 

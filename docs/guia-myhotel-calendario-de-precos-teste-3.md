@@ -21,7 +21,7 @@ CALENDÁRIO DE PREÇOS
 
 #### Página 2
 
-Neste guia, você vai aprender as funcionalidades da aba de calendário de preços.
+Neste guia, você aprenderá as funcionalidades da aba de calendário de preços.
 
 Como chegar?  
 O caminho para acessar o calendário de preços do hotel é:  
@@ -31,7 +31,7 @@ Em 'Pesquisa' e os filtros disponíveis, que podem ajudar a encontrar as informa
 
 #### Página 3
 
-Consultando o Calendário de Preços:  
+Consultando o calendário de preços:  
 Após selecionar o calendário de preços que deseja consultar, é importante que você conheça as opções de pesquisa e os filtros disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:  
 ![imagem-3](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-3.webp)
 
@@ -74,7 +74,7 @@ Irá exibir um calendário que possibilita visualizar até 6 meses.
 
 Informações:
 
-Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - ‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’ — e que aparecerão no calendário de preços:  
+Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel — ‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’ — e que aparecerão no calendário de preços:  
 Detalhes e Edição:  
 ![imagem-10](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-10.webp)  
 ![imagem-11](/assets/guia-myhotel-calendario-de-precos-teste-3/imagem-11.webp)

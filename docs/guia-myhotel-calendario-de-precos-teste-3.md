@@ -131,5 +131,3 @@ Boas Vendas!!
 #### Página 15
 
 ---
-
-*Texto corrigido e ajustado para maior clareza e correção gramatical, mantendo a estrutura original.*
